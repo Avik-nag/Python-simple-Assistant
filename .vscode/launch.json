@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Reader",
+            "request": "launch",
+            "mainClass": "Reader",
+            "projectName": "p1_3face7a5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Reader",
+            "request": "launch",
+            "mainClass": "Practise.Reader",
+            "projectName": "p1_3face7a5"
+        }
+    ]
+}
